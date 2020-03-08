@@ -22,25 +22,25 @@ Com esse passo feito, a aplicação para a aula estará pronta.
 
 ## Aulas
 
-- [Aula 01](tree/lesson-01)
+- [Aula 01](https://github.com/comunita/workshop-node.js/tree/lesson-01)
 
 ```shell
 git checkout lesson-01
 ```
 
-- [Aula 02](tree/lesson-02)
+- [Aula 02](https://github.com/comunita/workshop-node.js/tree/lesson-02)
 
 ```shell
 git checkout lesson-02
 ```
 
-- [Aula 03](tree/lesson-03)
+- [Aula 03](https://github.com/comunita/workshop-node.js/tree/lesson-03)
 
 ```shell
 git checkout lesson-03
 ```
 
-- [Aula 04](tree/lesson-04)
+- [Aula 04](https://github.com/comunita/workshop-node.js/tree/lesson-04)
 
 ```shell
 git checkout lesson-04
