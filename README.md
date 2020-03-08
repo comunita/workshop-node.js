@@ -4,25 +4,25 @@
 
 > Caso tenha duvidas de como navegar nas aulas e como foi estruturado nosso curso, você sempre pode voltar ao branch principal e ler o README.md usando o comando `git checkout master`
 
-## O que vamos aprender?
+# O que vamos aprender?
 
 Nessa primeira aula, vamos falar um pouco da história, como é porque usar o node, e no final vamos criar nosso primeiro servidor node.js com dicas importantes e já aplicando as melhores praticas :)
 
-### O que é?
+# O que é?
 
-## Quem esta usando?
+# Quem esta usando?
 
-## Vantagens
+# Vantagens
 
-## Frameworks que ajudam no desenvolvimento do dia a dia
+# Frameworks que ajudam no desenvolvimento do dia a dia
 
-## Configurando ambiente
+- ## Configurando ambiente
 
-### [Visual Estudio](https://visualstudio.microsoft.com/) ou Editor de sua preferência
+- ## [Visual Estudio](https://visualstudio.microsoft.com/) ou Editor de sua preferência
 
-### Instalando o Node.js
+- ## Instalando o Node.js
 
-### O que é NPM
+- ## O que é NPM
 
 O npm é o gerenciador de pacotes do Node.Js _(Node Package Manager)_ que vem junto com ele e que é muito útil no desenvolvimento Node. Por anos, o Node tem sido amplamente usado por desenvolvedores JavaScript para compartilhar ferramentas, instalar vários módulos e gerenciar suas dependências. Sabendo disso, é realmente importante para pessoas que trabalham com Node.js entendam o que é npm.
 
@@ -86,7 +86,7 @@ Basta a gente ir preenchendo o ou dando `yes` ou `no` a medida que ele for inter
 
 Pelo NPM também vamos instalar pacotes (helpes) que irá nos ajudar durante o desenvolvimento. Mas a frente vamos mostrar e insinar como usar essa parte.
 
-### [Eslint](https://eslint.org/)
+- ## [Eslint](https://eslint.org/)
 
 ESLint é uma ferramenta de análise de código estática para identificar padrões problemáticos encontrados no código JavaScript. Foi criado por Nicholas C. Zakas em 2013. As regras no ESLint são configuráveis ​​e regras personalizadas podem ser definidas e carregadas.
 
@@ -108,4 +108,4 @@ PAra isso, vamos instalar o npm usando o modo `--save -dev` que fala assim para 
 npm install --save -dev eslint
 ```
 
-[Prettier](https://prettier.io/)
+- ## [Prettier](https://prettier.io/)
