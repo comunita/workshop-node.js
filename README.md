@@ -1,4 +1,4 @@
-## Workshop Node.JS
+# Workshop Node.JS
 
 Este repositório foi preparado para fornecer material apropriado ao participante do curso durante o desenvolvimento.
 
